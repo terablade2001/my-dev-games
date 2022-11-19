@@ -1,0 +1,24 @@
+2
+0 1 1 1 0 0
+0 1 1 1 0 0
+1 1 1 1 1 0
+1 1 1 1 0 0
+500 0 0 0 0 0 0 0 0 0 0 2 1
+93      Creatures from the seas of Guadalur attacks the vilagges... Find out what is happening!
+.\\Data\\Campains\\Campain3\\Sounds\\C1_m1_S.mp3
+45      Yes, yes.. There was too many for you..
+.\\Data\\Campains\\Campain3\\Sounds\\C1_m1_E.mp3
+.\\Data\\Campains\\Campain3\\C1_m1.dms
+0 1 1 1 1 0
+0 1 1 1 0 0
+1 1 1 1 1 0
+1 1 1 1 0 0
+2000 0 50 50 15 20 5 0 1 1 2 -1 5
+45      So, take what we give you and go fight!
+.\\Data\\Campains\\Campain3\\Sounds\\C1_m2_S.mp3
+25      You saved ussss!!!!
+.\\Data\\Campains\\Campain3\\Sounds\\C1_m2_E.mp3
+.\\Data\\Campains\\Campain3\\C1_m2.dms
+.\\Data\\Campains\\Campain3\\Campain3_End.jpg
+1
+.\\Data\\Campains\\Campain3\\NPCs\\

@@ -1,0 +1,44 @@
+DManII - Patch: v1.02b (6/5/2005):
+
+To install this patch, just:
+  1) Replace the DManII.exe file with the file of this patch.
+
+Features corrected/modified/added with this patch.
+  1) Added OpenGL Fog. Use 'O'/'I' to decrease/increase it's density.
+  2) Corrected the number of saves at Director's Cut Difficulty.
+  3) Added to more Difficulty levels, for realy demanding players.
+  4b) All Monsters Stop moving at start of every stageload - BUG at very easy mode only 
+  5b) All Monsters Stop moving every time hero dies - BUG at very easy mode only 
+
+<<<<Suggested to have installed all previus patches referenced below...>>>>
+
+**************************************************************************************
+
+DManII - Patch: v1.01 (28/4/2005):
+
+To install this patch, just:
+  1) Replace the DManII.exe file with the file of this patch.
+  2) Replace the file: .\Data\Campains\Campain1\Campain1.cmp with the Campain1.cmp file of this patch.
+  3) Replace the file: .\Data\Campains\Campain1\NPCs\NPCs.cmp with the file NPCs.cmp of this patch.
+
+Features corrected/modified/added with this patch.
+* The FireStrikes costs 5 diamonds, but sell price was 20.
+* Armor (Acid/Gas) could not zero if campaign wanted it.
+* In one mission you take the weapon no 5, but you should take no 6 (It was impossible to pass)
+* Nuclear explosion - Monsters didn't clear properly so there were problems.
+* Changed speed power of some weapons and automine firehit (200->250)
+* Corrected the problem with the backround music at final stage of campaigns.
+* Added possibility of controling shield/potions at start of mission
+* NPCs characters resets on start of every stage (to have the opportunity to put a salesman for example on every stage)
+* Added one small campain named "Patch_v1.01_Campain". It's two stages. And also added some monsters! :)
+
+POSSIBLE WORK TO DO:
+- A character that could talk always for the first time.
+
+
+Problem Remains:
+- Some time (very rarely) it stack the computer. I don't know what it is, and how I can fix it.(It's probably the inifinitive loop that fells the graphics card when asking data to draw from cpu and she has nothing to send.) So, if your computer stack, reboot it!... If anyone have any idea to fix that, tell me...
+
+For any other problems send e-mail at: terablade2001@yahoo.gr ...
+
+Thanks, and hope you have fun! :)
